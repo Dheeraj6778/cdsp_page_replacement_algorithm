@@ -4,7 +4,7 @@
 - Code can simulate hit ratio for all page replacement algorithms. Input for this is range of framesizes we need to check upon. page sequence is taken from the file .
 - #pagenumber means the page is modified
 - modified pages are used only in NRU 
-- page sequence is given in input.txt
+- page sequence is given in input.txt.
 - images folder is required to store hit-ratio plot for every folder.
 
 ## NRU ##
